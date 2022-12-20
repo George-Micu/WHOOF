@@ -7,7 +7,6 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 require "faker"
-require "faker"
 
 20.times do
   newUser = User.new()
